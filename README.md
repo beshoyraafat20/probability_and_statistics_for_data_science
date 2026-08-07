@@ -10,7 +10,7 @@ A structured summary and hands-on companion repo for the YouTube playlist:
 YouTube's playlist are 47 videos in total; they're divided into two parts:
 ---
 
-## 🎯 Part 1: Foundations (Videos 1–14) — ✅ Covered in this repo's notebook
+## 🎯 Part 1: Foundations (Videos 1–14).
 
 ### basic introduction to probability and statistics
 | # (approx.) | Topic |
@@ -42,7 +42,7 @@ YouTube's playlist are 47 videos in total; they're divided into two parts:
 
 ---
 
-## 🎯 Part 2: Beyond the Basics (Videos 15–47) — 🟡 Inferred Outline (unverified)
+## 🎯 Part 2: Beyond the Basics (Videos 15–47)
 
 > The topics below represent the **typical continuation** of a course at this stage — moving from single-variable descriptive/probability foundations into multivariate relationships, sampling theory, and inferential statistics. Treat this as a **best-guess roadmap**, not a confirmed transcript of the playlist.
 
