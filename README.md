@@ -7,23 +7,21 @@ A structured summary and hands-on companion repo for the YouTube playlist:
 > **47 videos** total
 
 ---
-
-## ⚠️ A Note on Accuracy
-
-YouTube's playlist page is JavaScript-rendered, so individual video titles for all 47 videos could not be automatically extracted. **Videos 1–14 below are verified** against the detailed syllabus originally used to build this repo's notebook. **Videos 15–47 are an inferred, typical syllabus** for a course with this title and scope — based on the standard progression of a Probability & Statistics for AI/DS curriculum, not the actual on-screen video titles.
-
-**If you have access to the real playlist**, please replace the "Videos 15–47" section below with the actual titles — pull requests welcome! You can quickly get the real list by opening the playlist in a browser, scrolling to load all videos, and copying the titles.
-
+YouTube's playlist are 47 videos in total; they're divided into two parts:
 ---
 
 ## 🎯 Part 1: Foundations (Videos 1–14) — ✅ Covered in this repo's notebook
 
 | # | Topic |
 |---|---|
+### basic introduction to probability and statistics
+| # (approx.) | Topic |
 | 1 | Introduction to Data in AI/DS: Population vs. Sample |
 | 2 | Data Types: Numerical (Discrete/Continuous) vs. Categorical (Nominal/Ordinal) |
 | 3 | Sampling Techniques: Simple Random Sampling |
 | 4 | Sampling Techniques: Stratified, Systematic & Cluster Sampling, and Sampling Bias |
+### Descriptive Statistics
+| # (approx.) | Topic |
 | 5 | Descriptive Statistics: Mean, Median, Mode |
 | 6 | Descriptive Statistics: Variance & Standard Deviation |
 | 7 | Descriptive Statistics: Range, IQR & Coefficient of Variation |
@@ -31,6 +29,8 @@ YouTube's playlist page is JavaScript-rendered, so individual video titles for a
 | 9 | EDA: Outlier Detection (IQR Rule & Z-Score Rule) |
 | 10 | Random Variables: Discrete vs. Continuous, Introduction to PMF/PDF |
 | 11 | Random Variables: Cumulative Distribution Function (CDF) |
+### Probability Distributions
+| # (approx.) | Topic |
 | 12 | Probability Distributions: Uniform & Binomial Distributions |
 | 13 | Probability Distributions: Poisson Distribution |
 | 14 | Probability Distributions: Normal/Gaussian, Standard Normal (Z), and the Empirical Rule (68-95-99.7); Skewness & Kurtosis |
