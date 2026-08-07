@@ -3,7 +3,7 @@
 A structured summary and hands-on companion repo for the YouTube playlist:
 
 > **[Master Probability and Statistics for Artificial Intelligence and Data Science (AI&DS) in 9 Days](https://www.youtube.com/playlist?list=PLJM7jJIw2GC2Ihr__bRSeMxzsiFMZEsx7)**
-> Channel: *Artificial Intelligence & Data Science
+> Channel: *Artificial Intelligence & Data Science*
 > **47 videos** total
 
 ---
