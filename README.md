@@ -12,7 +12,6 @@ YouTube's playlist are 47 videos in total; they're divided into two parts:
 
 ## 🎯 Part 1: Foundations (Videos 1–14) — ✅ Covered in this repo's notebook
 
-
 ### basic introduction to probability and statistics
 | # (approx.) | Topic |
 |---|---|
