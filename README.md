@@ -113,7 +113,7 @@ YouTube's playlist are 47 videos in total; they're divided into two parts:
 
 | File | Description |
 |---|---|
-| `prob_stats_masterclass.ipynb` | Fully executable notebook covering **Videos 1–14** (Part 1 above) with LaTeX math, runnable Python (NumPy/Pandas/SciPy/Matplotlib/Seaborn), synthetic datasets, annotated plots, interpretations, and practice challenges with hidden solutions. |
+| `prob_stats_masterclass_part1.ipynb` | Fully executable notebook covering **Videos 1–14** (Part 1 above) with LaTeX math, runnable Python (NumPy/Pandas/SciPy/Matplotlib/Seaborn), synthetic datasets, annotated plots, interpretations, and practice challenges with hidden solutions. |
 | `README.md` | This file. |
 
 > Part 2 (Videos 15–47) is **not yet implemented** as a notebook in this repo. Contributions extending the notebook series to cover inferential statistics, regression, and hypothesis testing are welcome.
