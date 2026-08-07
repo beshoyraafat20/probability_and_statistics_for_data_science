@@ -14,14 +14,14 @@ YouTube's playlist are 47 videos in total; they're divided into two parts:
 
 
 ### basic introduction to probability and statistics
-|---|---|
 | # (approx.) | Topic |
+|---|---|
 | 1 | Introduction to Data in AI/DS: Population vs. Sample |
 | 2 | Data Types: Numerical (Discrete/Continuous) vs. Categorical (Nominal/Ordinal) |
 | 3 | Sampling Techniques: Simple Random Sampling |
 | 4 | Sampling Techniques: Stratified, Systematic & Cluster Sampling, and Sampling Bias |
-### Descriptive Statistics
 
+### Descriptive Statistics
 | # (approx.) | Topic |
 |---|---|
 | 5 | Descriptive Statistics: Mean, Median, Mode |
