@@ -12,16 +12,18 @@ YouTube's playlist are 47 videos in total; they're divided into two parts:
 
 ## 🎯 Part 1: Foundations (Videos 1–14) — ✅ Covered in this repo's notebook
 
-| # | Topic |
-|---|---|
+
 ### basic introduction to probability and statistics
+|---|---|
 | # (approx.) | Topic |
 | 1 | Introduction to Data in AI/DS: Population vs. Sample |
 | 2 | Data Types: Numerical (Discrete/Continuous) vs. Categorical (Nominal/Ordinal) |
 | 3 | Sampling Techniques: Simple Random Sampling |
 | 4 | Sampling Techniques: Stratified, Systematic & Cluster Sampling, and Sampling Bias |
 ### Descriptive Statistics
+
 | # (approx.) | Topic |
+|---|---|
 | 5 | Descriptive Statistics: Mean, Median, Mode |
 | 6 | Descriptive Statistics: Variance & Standard Deviation |
 | 7 | Descriptive Statistics: Range, IQR & Coefficient of Variation |
@@ -29,8 +31,10 @@ YouTube's playlist are 47 videos in total; they're divided into two parts:
 | 9 | EDA: Outlier Detection (IQR Rule & Z-Score Rule) |
 | 10 | Random Variables: Discrete vs. Continuous, Introduction to PMF/PDF |
 | 11 | Random Variables: Cumulative Distribution Function (CDF) |
+
 ### Probability Distributions
 | # (approx.) | Topic |
+|---|---|
 | 12 | Probability Distributions: Uniform & Binomial Distributions |
 | 13 | Probability Distributions: Poisson Distribution |
 | 14 | Probability Distributions: Normal/Gaussian, Standard Normal (Z), and the Empirical Rule (68-95-99.7); Skewness & Kurtosis |
